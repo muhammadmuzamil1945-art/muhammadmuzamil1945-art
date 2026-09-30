@@ -4,7 +4,6 @@ I'm a BS Artificial Intelligence student at NUML. I like learning AI by building
 
 ## What I'm working on
 
-- **AI-Powered Real-Time PSX Analysis System** – an AI system that brings together market data, company information, financial news, and technical and fundamental analysis. I'm exploring AI agents and RAG to pull in real-time information from reliable sources.
 - **Rice Disease Detection & Recommendation System** – a machine learning / computer vision project that classifies rice leaf diseases. Most of the work went into preprocessing, class balancing, training, and evaluation.
 - **Student Performance Prediction** – predicting academic performance from student data, with a focus on feature analysis and explainable AI.
 
