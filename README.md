@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muzamil 👋
 
-<!--
-**muhammadmuzamil1945-art/muhammadmuzamil1945-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS Artificial Intelligence student at NUML. I like learning AI by building it, then working out why it works (or doesn't). Right now I'm digging into AI agents and RAG.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI-Powered Real-Time PSX Analysis System** – an AI system that brings together market data, company information, financial news, and technical and fundamental analysis. I'm exploring AI agents and RAG to pull in real-time information from reliable sources.
+- **Rice Disease Detection & Recommendation System** – a machine learning / computer vision project that classifies rice leaf diseases. Most of the work went into preprocessing, class balancing, training, and evaluation.
+- **Student Performance Prediction** – predicting academic performance from student data, with a focus on feature analysis and explainable AI.
+
+## Tech I use
+
+| Area | Tools |
+| --- | --- |
+| Programming | Python, OOP |
+| AI / ML | Machine Learning, Classification, Regression, Model Evaluation, Basic Deep Learning |
+| Data | NumPy, Pandas, Data Cleaning, EDA |
+| Database | MySQL, SQL |
+| AI Tech | Generative AI, AI Agents, RAG, APIs |
+| Tools | VS Code, Jupyter Notebook, Git/GitHub, Kaggle |
+
+## Experience
+
+**Machine Learning Intern @ Progree** – worked on real ML tasks: datasets, preprocessing, analysis, and model development.
+
+## What I'm curious about
+
+Responsible AI, AI for development, digital transformation, and using data to make better decisions.
+
+## Get in touch
+
+- LinkedIn: [LinkedIn URL]
+- Email: [Email]
