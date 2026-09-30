@@ -29,5 +29,5 @@ Responsible AI, AI for development, digital transformation, and using data to ma
 
 ## Get in touch
 
-- LinkedIn: [LinkedIn URL]
-- Email: [Email]
+- LinkedIn: [https://www.linkedin.com/in/hafiz-muhammad-muzamil-b42905324/]
+- Email: [muhammadmuzamil1945@gmail.com]
